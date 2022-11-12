@@ -78,7 +78,7 @@ body{
   color: #034eff;
 }
 .banner{
-  background: url("C:/Users/LENOVO/Downloads/800_5cdba527e4af3.webp") no-repeat;
+  background: url("/banner.webp") no-repeat;
   height: 100vh;
   background-size: cover;
   background-position: center;
