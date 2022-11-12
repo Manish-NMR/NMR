@@ -616,12 +616,15 @@ footer{
   align-items: center;
   text-align: center;
 }
+.fl{
+  padding: 8px;
+}
 .fl a:link{
   color: wheat;
   text-decoration: none;
 }
 .fl a:visited{
-  color: rgb(252, 240, 68);
+  color: wheat;
   text-decoration: none;
 }
 .fl a:hover{
