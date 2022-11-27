@@ -547,7 +547,9 @@ body{
   text-align: left;
 }
 /* form style */
-
+#hlo:hover{
+  cursor:not-allowed;
+}
 #hcontact{
   background-color: white;
   margin-top: 40px;
