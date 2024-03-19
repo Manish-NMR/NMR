@@ -1,3 +1,3 @@
 # NMR
 
-https://manish-nmr.github.io/NMR/
+https://manishnmr.github.io/NMR/
